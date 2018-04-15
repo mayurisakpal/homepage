@@ -139,7 +139,7 @@ body {
     background-color: transparent;
     border-width: 2px;
     border-radius: 30px;
-    padding: 9px 18px !important;
+    padding: 9px 15px !important;
     transition: all 0.2s linear;
     outline: none !important;
     vertical-align: middle;
@@ -159,13 +159,13 @@ body {
 }
 
 .banner-btn i {
-    font-size: 30px;
+    font-size: 28px;
 }
 
 .banner-btn span {
     font-size: 16px;
     vertical-align: middle;
-    line-height: 32px;
+    line-height: 29px;
 }
 
 .service-card {
@@ -241,7 +241,7 @@ body {
 .service-container {
     width: 75%;
     margin: auto;
-    margin-top: -170px;
+    margin-top: -120px;
     margin-bottom: 50px;
 }
 .drawer-nav a{

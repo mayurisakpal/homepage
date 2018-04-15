@@ -29,7 +29,7 @@ class App extends Component {
       <div>
         <div style={{}}>
           <Layout fixedHeader>
-            <Header transparent title={ <a href="/"><img src="././assets/white-logo.png" /></a>}>
+            <Header transparent title={ <a href="#"><img src="././assets/white-logo.png" /></a>}>
               <Navigation className="navigation-head">
                 <a href="#" className="nav-link-font hide-xs">
                   Home

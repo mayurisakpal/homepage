@@ -4,16 +4,11 @@ import ModalVideo from "react-modal-video";
 
 import {
   Layout,
-  Header,
-  Navigation,
-  Drawer,
-  Content,
   Grid,
   Cell,
   Card,
   CardTitle,
-  CardActions,
-  Button
+  CardActions
 } from "react-mdl";
 
 

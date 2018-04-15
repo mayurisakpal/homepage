@@ -31,35 +31,35 @@ class App extends Component {
           <Layout fixedHeader>
             <Header transparent title={ <a href="/"><img src="././assets/white-logo.png" /></a>}>
               <Navigation className="navigation-head">
-                <a href="/" className="nav-link-font hide-xs">
+                <a href="#" className="nav-link-font hide-xs">
                   Home
                 </a>
-                <a href="/" className="nav-link-font hide-xs">
+                <a href="#" className="nav-link-font hide-xs">
                   Solution
                 </a>
-                <a href="/" className="nav-link-font hide-xs">
+                <a href="#" className="nav-link-font hide-xs">
                   Technology
                 </a>
-                <a href="/" className="nav-link-font hide-xs">
+                <a href="#" className="nav-link-font hide-xs">
                   Contact
                 </a>
-                <button href="/" className="nav-link-font btn btn-outline  ">
+                <button href="#" className="nav-link-font btn btn-outline  ">
                   Login
                 </button>
               </Navigation>
             </Header>
             <Drawer>
               <Navigation className="drawer-nav">
-                <a href="/" className="nav-link-font">
+                <a href="#" className="nav-link-font">
                   Home
                 </a>
-                <a href="/" className="nav-link-font">
+                <a href="#" className="nav-link-font">
                   Solution
                 </a>
-                <a href="/" className="nav-link-font">
+                <a href="#" className="nav-link-font">
                   Technology
                 </a>
-                <a href="/" className="nav-link-font">
+                <a href="#" className="nav-link-font">
                   Contact
                 </a>
                 

@@ -6,9 +6,7 @@ import {
   Layout,
   Header,
   Navigation,
-  Drawer,
-  Cell,
-  Button
+  Drawer
 } from "react-mdl";
 
 import "./App.css";
